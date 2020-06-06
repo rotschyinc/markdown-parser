@@ -1,2 +1,2 @@
 # markdown-parser
-Parses mardown files to HTML
+Parses markdown files and outputs them to HTML
